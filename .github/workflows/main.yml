@@ -1,4 +1,4 @@
-- name: Action Lint
+name: Action Lint
   # You may pin to the exact commit or the version.
   # uses: panda0603/lint-action@96fafdf5a95139ecf44ede90b32fd92d79f59a7f
   uses: panda0603/lint-action@1.6.3
